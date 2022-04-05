@@ -2,6 +2,20 @@
 
 SC1015 Project
 
+
+Team members:
+Aloysius Tay Zen
+Goh Kai Jun, Alger (U2122842k)
+Ang Arthur Ace
+
+
+Title: Analyzing the NBA project
+
+
+
+
+
+
 10% for coming up with your own problem definition based on a dataset
 
 10% for data preparation and cleaning to suit the problem of your choice
