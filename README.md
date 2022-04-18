@@ -1,6 +1,6 @@
-# SC1015
+# SC1015 SC17
 
-SC1015 Project, LAB SC17
+SC1015 Project
 
 -----------------------------
 Team members:
@@ -13,7 +13,7 @@ Ang Arthur Ace
 
 -----------------------------
 
-Title: Analyzing NBA players
+Title: Analyzing the NBA dataset
 
 This project aims to identify outstanding players through analyzing their player stats through 1996 to 2018.
 
