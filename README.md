@@ -9,7 +9,7 @@ Aloysius Tay Zen
 
 Goh Kai Jun, Alger (U2122842k)
 
-Ang Arthur Ace
+Ang Arthur Ace  (U2121103E)
 
 -----------------------------
 
