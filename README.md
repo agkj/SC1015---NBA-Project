@@ -7,7 +7,7 @@ Team members:
 
 Aloysius Tay Zen (U2121353L)
 
-Goh Kai Jun, Alger (U2122842k)
+Goh Kai Jun, Alger (U2122842K)
 
 Ang Arthur Ace  (U2121103E)
 
