@@ -1,6 +1,6 @@
 # SC1015
 
-SC1015 Project
+SC1015 Project, LAB SC17
 
 -----------------------------
 Team members:
