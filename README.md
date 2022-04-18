@@ -15,13 +15,19 @@ Ang Arthur Ace
 
 Title: Analyzing the NBA dataset
 
-This project aims to identify outstanding players through analyzing their player stats through 1996 to 2018.
+This project aims to identify outstanding players through analyzing their player stats through 1996 to 2018. 
+Data from: https://www.kaggle.com/datasets/justinas/nba-players-data
 
 FILLER 
 FILLER
 FILLER
 
 Learning something new:
-(insert link)
+https://public.tableau.com/app/profile/ace4658/viz/NBADSAI/Story1?publish=yes
+
+FILLER 
+FILLER
+FILLER
+
 (explanation)
 
