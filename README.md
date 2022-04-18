@@ -5,7 +5,7 @@ SC1015 Project
 -----------------------------
 Team members:
 
-Aloysius Tay Zen
+Aloysius Tay Zen (U2121353L)
 
 Goh Kai Jun, Alger (U2122842k)
 
