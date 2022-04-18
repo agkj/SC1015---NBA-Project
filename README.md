@@ -17,4 +17,11 @@ Title: Analyzing NBA players
 
 This project aims to identify outstanding players through analyzing their player stats through 1996 to 2018.
 
+FILLER 
+FILLER
+FILLER
+
+Learning something new:
+(insert link)
+(explanation)
 
