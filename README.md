@@ -31,6 +31,7 @@ ii. Can we predict if a player is from draft round 1 or not using that statistic
 # Models Used:
 1. Linear Regression
 2. Decision Trees
+3. Learning something new: Tableu to generate new data visualisation
 
 -----------------------------
 
@@ -44,14 +45,9 @@ ii. Can we predict if a player is from draft round 1 or not using that statistic
 -----------------------------
 
 # What did we learn from this project?:
-idk im gonna dropout soon
 
 Learning something new:
 https://public.tableau.com/app/profile/ace4658/viz/NBADSAI/Story1?publish=yes
 
-FILLER 
-FILLER
-FILLER
 
-(explanation)
 
