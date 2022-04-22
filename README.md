@@ -10,8 +10,10 @@ Aloysius Tay Zen (U2121353L)
 Goh Kai Jun, Alger (U2122842K)
 
 Ang Arthur Ace  (U2121103E)
+
 -----------------------------
-# Link to presentation: https://docs.google.com/presentation/d/1-r2lLS0FyHrPUEZm98v4mWnplSLqPkKo/edit#slide=id.p35 
+
+Link to presentation: https://docs.google.com/presentation/d/1-r2lLS0FyHrPUEZm98v4mWnplSLqPkKo/edit#slide=id.p35 
 
 -----------------------------
 
