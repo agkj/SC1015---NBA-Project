@@ -1,6 +1,6 @@
-# SC1015 SC17
+# SC1015 Group 8 SC17
 
-SC1015 Project
+SC1015 Group 8 Project
 
 -----------------------------
 # Team members:
