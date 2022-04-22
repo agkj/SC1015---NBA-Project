@@ -50,7 +50,7 @@ ii. Can we predict if a player is from draft round 1 or not using that statistic
 
 -----------------------------
 
-# Leanring Something new using tableau:
+# Learning something new using tableau:
 
 Learning something new:
 https://public.tableau.com/app/profile/ace4658/viz/NBADSAI/Story1?publish=yes
