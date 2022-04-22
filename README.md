@@ -15,7 +15,7 @@ Ang Arthur Ace  (U2121103E)
 
 # Link to presentation slides and video: 
 
-https://drive.google.com/drive/folders/1NJ91A9LBOsEel-DAJx8rY5OriZ4UszYe
+https://drive.google.com/drive/folders/1NJ91A9LBOsEel-DAJx8rY5OriZ4UszYe?usp=sharing
 
 -----------------------------
 
