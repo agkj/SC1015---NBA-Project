@@ -55,7 +55,7 @@ Identifying other variables that affects a player performance in the NBA
 2) Games Played
 3) Usage rate
 4) Net rating
-![image](https://user-images.githubusercontent.com/39144132/164891499-03cfb279-d0af-4376-800d-e0a3d0187058.png)
+
 
 -----------------------------
 
