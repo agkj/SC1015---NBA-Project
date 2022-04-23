@@ -5,11 +5,11 @@ SC1015 Group 8 Project
 -----------------------------
 # Team members:
 
-Aloysius Tay Zen (U2121353L)
+Aloysius Tay Zen (U2121353L) @Aloyloyloyloy
 
-Goh Kai Jun, Alger (U2122842K)
+Goh Kai Jun, Alger (U2122842K) @agkj
 
-Ang Arthur Ace  (U2121103E)
+Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms
 
 -----------------------------
 
