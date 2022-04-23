@@ -40,8 +40,9 @@ ii. Can we predict if a player is from draft round 1 or not using that statistic
 3. Learning something new: Tableu to generate new data visualisation
 
 -----------------------------
-# EDA
-1) Filtering of players who have less than 70% of games played
+# Data filtering
+1) Filtering of players who have less than 70% of games played, as our data has thousand over players who have less than 70% of the games played, filtering these
+players out will reduce skewness in the dataset
 ![image](https://user-images.githubusercontent.com/39144132/164891171-e5323d34-1b65-489c-a7b6-fdac6525ff38.png)
 
 
