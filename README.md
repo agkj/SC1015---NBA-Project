@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1NJ91A9LBOsEel-DAJx8rY5OriZ4UszYe?usp=sha
 
 # Title: Analyzing the NBA dataset
 
-This project aims to identify outstanding players through analyzing their player stats through 1996 to 2019. 
+This project aims to identify outstanding and mediocre players through analyzing their NBA statisticss from 1996 to 2019. 
 
 Data is taken from: https://www.kaggle.com/datasets/justinas/nba-players-data
 
@@ -26,7 +26,7 @@ Data is taken from: https://www.kaggle.com/datasets/justinas/nba-players-data
 
 # Problem Definition:
 What makes an NBA player good?
-1.  Which statistic did we consider to determine how good a player is and how does other factors affect it?
+1. Which statistic did we consider to determine how good a player is and how does other factors affect it?
 2. Can we predict if a player is from draft round 1 or not using that statistic?
 ![image](https://user-images.githubusercontent.com/39144132/164891284-d47b3686-e549-44d2-af38-b7add91546f3.png)
 
