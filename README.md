@@ -29,8 +29,8 @@ Data is taken from: https://www.kaggle.com/datasets/justinas/nba-players-data
 
 # Problem Definition:
 What makes an NBA player good?
-i.  Which statistic did we consider to determine how good a player is and how does other factors affect it?
-ii. Can we predict if a player is from draft round 1 or not using that statistic?
+1.  Which statistic did we consider to determine how good a player is and how does other factors affect it?
+2. Can we predict if a player is from draft round 1 or not using that statistic?
 ![image](https://user-images.githubusercontent.com/39144132/164891284-d47b3686-e549-44d2-af38-b7add91546f3.png)
 
 
