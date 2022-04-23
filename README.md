@@ -5,7 +5,7 @@
 | Contributor                                           | Contributions                                                   | Cool  |
 | ------------------------------------------------------|:---------------------------------------------------------------:| -----:|
 | Aloysius Tay Zen (U2121353L) @Aloyloyloyloy           | Machine Learning + EDA + Data Cleaning                          | $1600 |
-| Goh Kai Jun, Alger (U2122842K) @agkj                  | EDA + Data Cleaning + Github Implementation                     |   $12 |
+| Goh Kai Jun, Alger (U2122842K) https://github.com/agkj                  | EDA + Data Cleaning + Github Implementation                     |   $12 |
 | Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms   | Narration + Script                                              |    $1 |
 
 -----------------------------
