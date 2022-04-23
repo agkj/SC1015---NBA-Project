@@ -52,6 +52,7 @@ Identifying other variables that affects a player points during his career in th
 2) Games Played
 3) Usage rate
 4) Net rating
+
 All these variables are factors that affects a player's points throughout his career, we will be using this variables to plot against "points" and see how they stack up.
 
 -----------------------------
