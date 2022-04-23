@@ -48,11 +48,14 @@ What makes an NBA player good?
 players out will reduce skewness in the dataset
 ![image](https://user-images.githubusercontent.com/39144132/164891171-e5323d34-1b65-489c-a7b6-fdac6525ff38.png)
 
-
-
-
-
-
+-----------------------------
+# EDA
+Identifying other variables that affects a player performance in the NBA
+1) Age
+2) Games Played
+3) Usage rate
+4) Net rating
+![image](https://user-images.githubusercontent.com/39144132/164891499-03cfb279-d0af-4376-800d-e0a3d0187058.png)
 
 -----------------------------
 
@@ -68,6 +71,7 @@ players out will reduce skewness in the dataset
 # Learning something new using tableau:
 
 Learning something new:
+We generated a world map visualusation of where players originate from and also a timeline model of how much points a player scored throughout his career since 1996-2019
 https://public.tableau.com/app/profile/ace4658/viz/NBADSAI/Story1?publish=yes
 
 
