@@ -26,7 +26,7 @@ Data is taken from: https://www.kaggle.com/datasets/justinas/nba-players-data
 
 # Problem Definition:
 What makes an NBA player good?
-1. Which statistic did we consider to determine how good a player is and how does other factors affect it?
+1. What statistic did we consider to determine how good a player is and how do other factors affect it?
 2. Can we predict if a player is from draft round 1 or not using that statistic?
 ![image](https://user-images.githubusercontent.com/39144132/164891284-d47b3686-e549-44d2-af38-b7add91546f3.png)
 
@@ -41,17 +41,17 @@ What makes an NBA player good?
 
 -----------------------------
 # Data filtering
-1) Filtering of players who have less than 70% of games played, as our data has thousand over players who have less than 70% of the games played, filtering these
+1. Filtering of players who have less than 70% of games played, as our data has thousand over players who have less than 70% of the games played, filtering these
 players out will reduce skewness in the dataset
 ![image](https://user-images.githubusercontent.com/39144132/164891171-e5323d34-1b65-489c-a7b6-fdac6525ff38.png)
 
 -----------------------------
 # EDA
 Identifying other variables that affects a player points during his career in the NBA
-1) Age
-2) Games Played
-3) Usage rate
-4) Net rating
+1. Age
+2. Games Played
+3. Usage rate
+4. Net rating
 
 All these variables are factors that affects a player's points throughout his career, we will be using this variables to plot against "points" and see how they stack up.
 
