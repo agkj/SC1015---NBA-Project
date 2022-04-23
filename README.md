@@ -10,11 +10,11 @@ Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms
 
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Name                                                  | Are           | Cool  |
+| -------------                                         |:-------------:| -----:|
+| Aloysius Tay Zen (U2121353L) @Aloyloyloyloy           | right-aligned | $1600 |
+| Goh Kai Jun, Alger (U2122842K) @agkj                  | centered      |   $12 |
+| Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms   | are neat      |    $1 |
 
 -----------------------------
 
