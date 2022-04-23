@@ -1,7 +1,4 @@
 # SC1015 Group 8 SC17
-
-SC1015 Group 8 Project
-
 -----------------------------
 # Team members:
 
@@ -50,12 +47,12 @@ players out will reduce skewness in the dataset
 
 -----------------------------
 # EDA
-Identifying other variables that affects a player performance in the NBA
+Identifying other variables that affects a player points during his career in the NBA
 1) Age
 2) Games Played
 3) Usage rate
 4) Net rating
-
+All these variables are factors that affects a player's points throughout his career, we will be using this variables to plot against "points" and see how they stack up.
 
 -----------------------------
 
