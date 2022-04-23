@@ -69,7 +69,7 @@ All these variables are factors that affects a player's points throughout his ca
 # Learning something new using tableau:
 
 Learning something new:
-We generated a world map visualusation of where players originate from and also a timeline model of how much points a player scored throughout his career since 1996-2019
+We generated a world map visualusation of where players originated from and also a timeline model of how much points a player scored throughout his career from 1996 to 2019
 https://public.tableau.com/app/profile/ace4658/viz/NBADSAI/Story1?publish=yes
 
 
