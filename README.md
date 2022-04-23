@@ -47,7 +47,7 @@ players out will reduce skewness in the dataset
 
 -----------------------------
 # EDA
-Identifying other variables that affects a player points during his career in the NBA
+Identifying other variables that affects the number of points a player scores per game during his career in the NBA
 1. Age
 2. Games Played
 3. Usage rate
