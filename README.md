@@ -63,7 +63,7 @@ All these variables are factors that affects a player's points throughout his ca
 3. Usage rate is the statistic that affects points a player scores per game the most
 4. The decision tree is able to accurately predict if a good player is from draft round 1 or not
 5. However, it did not perform so well when it came to predicting the worst players
-![Alt Text](https://media.giphy.com/media/3o7aTnQqygA3TcukFi/giphy.gif)
+![Alt Text](https://media.giphy.com/media/3o7aTnQqygA3TcukFi/giphy.gif=500x500)
 -----------------------------
 
 # Learning something new using tableau:
