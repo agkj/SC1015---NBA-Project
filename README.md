@@ -36,8 +36,19 @@ ii. Can we predict if a player is from draft round 1 or not using that statistic
 
 # Models Used:
 1. Linear Regression
-2. Decision Trees
+2. Decision Trees, goodness of fit model
 3. Learning something new: Tableu to generate new data visualisation
+
+-----------------------------
+# EDA
+1) Filtering of players who have less than 70% of games played
+![image](https://user-images.githubusercontent.com/39144132/164891171-e5323d34-1b65-489c-a7b6-fdac6525ff38.png)
+
+
+
+
+
+
 
 -----------------------------
 
