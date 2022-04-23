@@ -2,14 +2,6 @@
 -----------------------------
 # Team members:
 
-Aloysius Tay Zen (U2121353L) @Aloyloyloyloy
-
-Goh Kai Jun, Alger (U2122842K) @agkj
-
-Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms
-
-
-
 | Contributor                                           | Contributions                       | Cool  |
 | ------------------------------------------------------|:-----------------------------------:| -----:|
 | Aloysius Tay Zen (U2121353L) @Aloyloyloyloy           | right-aligned                       | $1600 |
