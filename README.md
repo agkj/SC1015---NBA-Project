@@ -4,9 +4,9 @@
 
 | Contributor                                           | Contributions                       | Cool  |
 | ------------------------------------------------------|:-----------------------------------:| -----:|
-| Aloysius Tay Zen (U2121353L) @Aloyloyloyloy           | right-aligned                       | $1600 |
+| Aloysius Tay Zen (U2121353L) @Aloyloyloyloy           | Machine Learning + EDA              | $1600 |
 | Goh Kai Jun, Alger (U2122842K) @agkj                  | centered                            |   $12 |
-| Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms   | are neat                            |    $1 |
+| Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms   | Narration + Script                  |    $1 |
 
 -----------------------------
 
