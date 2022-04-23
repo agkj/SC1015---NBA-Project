@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1NJ91A9LBOsEel-DAJx8rY5OriZ4UszYe?usp=sha
 
 # Title: Analyzing the NBA dataset
 
-This project aims to identify outstanding and mediocre players through analyzing their NBA statisticss from 1996 to 2019. 
+This project aims to identify outstanding and mediocre players through analyzing their NBA statistics from 1996 to 2019. 
 
 Data is taken from: https://www.kaggle.com/datasets/justinas/nba-players-data
 
