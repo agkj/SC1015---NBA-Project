@@ -37,7 +37,7 @@ What makes an NBA player good?
 # Models Used:
 1. Linear Regression
 2. Decision Trees, goodness of fit model
-3. Learning something new: Tableu to generate new data visualisation
+3. Learning something new: Tableu to generate new data visualisation (World Map Visualisation, timeline model)
 
 -----------------------------
 # Data filtering
