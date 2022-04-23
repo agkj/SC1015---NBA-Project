@@ -10,11 +10,11 @@ Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms
 
 
 
-| Name                                                  | Are           | Cool  |
-| -------------                                         |:-------------:| -----:|
-| Aloysius Tay Zen (U2121353L) @Aloyloyloyloy           | right-aligned | $1600 |
-| Goh Kai Jun, Alger (U2122842K) @agkj                  | centered      |   $12 |
-| Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms   | are neat      |    $1 |
+| Contributor                                           | Contributions                       | Cool  |
+| ------------------------------------------------------|:-----------------------------------:| -----:|
+| Aloysius Tay Zen (U2121353L) @Aloyloyloyloy           | right-aligned                       | $1600 |
+| Goh Kai Jun, Alger (U2122842K) @agkj                  | centered                            |   $12 |
+| Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms   | are neat                            |    $1 |
 
 -----------------------------
 
