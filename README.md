@@ -65,7 +65,7 @@ Identifying other variables that affects a player performance in the NBA
 3. Usage rate is the statistic that affects points a player scores per game the most
 4. The decision tree is able to accurately predict if a good player is from draft round 1 or not
 5. However, it did not perform so well when it came to predicting the worst players
-
+![Alt Text](https://media.giphy.com/media/3o7aTnQqygA3TcukFi/giphy.gif)
 -----------------------------
 
 # Learning something new using tableau:
