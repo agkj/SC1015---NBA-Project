@@ -8,6 +8,14 @@ Goh Kai Jun, Alger (U2122842K) @agkj
 
 Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms
 
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 -----------------------------
 
 # Link to presentation slides and video: 
