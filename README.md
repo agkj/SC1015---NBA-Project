@@ -81,6 +81,18 @@ By understanding how these variables have any effect on a players points per gam
 
 Learning something new:
 We generated a world map visualusation of where players originated from and also a timeline model of how much points a player scored throughout his career from 1996 to 2019
+
+![image](https://user-images.githubusercontent.com/39144132/164955881-2e5d9643-d1b5-4eb6-b3eb-3a89b4f7fc4d.png)
+
+![image](https://user-images.githubusercontent.com/39144132/164955929-030c3c02-8db6-42ce-a385-82e97743bba6.png)
+
+A majority of the players however are still from North America, but it seems that it is slowly starting to reach out to players of lesser known countries.
+
+
+![image](https://user-images.githubusercontent.com/39144132/164955895-f7173949-56b8-4d2d-96c3-a69e7bef13c8.png)
+
+
+
 https://public.tableau.com/app/profile/ace4658/viz/NBADSAI/Story1?publish=yes
 
 
