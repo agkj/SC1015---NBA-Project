@@ -56,6 +56,12 @@ Identifying other variables that affects the number of points a player scores pe
 All these variables are factors that affects a player's points throughout his career, we will be using this variables to plot against "points" and see how they stack up.
 
 -----------------------------
+# Machine Learning
+
+
+
+
+-----------------------------
 
 # Conclusion:
 1. Not all the players in the dataset can be considered as they might have played in very little games during their respective seasons
