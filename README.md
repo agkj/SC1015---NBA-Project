@@ -91,6 +91,8 @@ A majority of the players however are still from North America, but it seems tha
 
 ![image](https://user-images.githubusercontent.com/39144132/164955895-f7173949-56b8-4d2d-96c3-a69e7bef13c8.png)
 
+This visualisation depicts a players performance across the starting season of our data 1996 to 2019.
+
 
 
 https://public.tableau.com/app/profile/ace4658/viz/NBADSAI/Story1?publish=yes
