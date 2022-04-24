@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1NJ91A9LBOsEel-DAJx8rY5OriZ4UszYe?usp=sha
 
 This project aims to identify outstanding and mediocre players through analyzing their NBA statistics from 1996 to 2019. 
 
-Data is taken from: https://www.kaggle.com/datasets/justinas/nba-players-data
+
 
 -----------------------------
 
@@ -116,5 +116,10 @@ This visualisation depicts a players performance across the starting season of o
 
 https://public.tableau.com/app/profile/ace4658/viz/NBADSAI/Story1?publish=yes
 
+-----------------------------
+
+# References
+
+Data is taken from: https://www.kaggle.com/datasets/justinas/nba-players-data
 
 
