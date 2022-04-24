@@ -62,9 +62,20 @@ By understanding how these variables have any effect on a players points per gam
 
 -----------------------------
 # Machine Learning
+Plotting out the decision tree 
+![image](![image](https://user-images.githubusercontent.com/66772395/164964931-a43c0811-7952-43a3-8068-742115f07808.png)
 
+Goodness of fit of the model and confusion matrix
+![image](https://user-images.githubusercontent.com/66772395/164965037-3b16b610-eaf6-4fac-8fbc-743049eeb4c2.png)
+We were able to get similar classification accuracy for both the train and the test dataset.
 
+Predictions for the best players
+![image](https://user-images.githubusercontent.com/66772395/164965144-3adeb6a1-3ae0-482e-9f19-8ba61a900d5d.png)
+The trained model was able to accurately predict the draft rounds for all the top players throughout the dataset. 
 
+Predictions for the worst players
+![image](https://user-images.githubusercontent.com/66772395/164965198-a6450202-e4d5-455a-878f-55b5c99fe6c1.png)
+However for the worst players, it did not do as well but still managed to maintain an accuracy of about 65%.
 
 -----------------------------
 
