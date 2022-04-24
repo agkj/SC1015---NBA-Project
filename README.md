@@ -4,9 +4,9 @@
 
 | Contributor                                            | Contributions                                                   
 | ------------------------------------------------------|:---------------------------------------------------------------:|
-| Aloysius Tay Zen (U2121353L) @Aloyloyloyloy https://github.com/Aloyloyloyloy          | Machine Learning + EDA + Data Cleaning |
-| Goh Kai Jun, Alger (U2122842K) https://github.com/agkj                  | EDA + Data Cleaning + Github Implementation                    
-| Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms https://github.com/ScatteredThunderstorms  | Narration + Script + Tableau                                             | 
+| Aloysius Tay Zen (U2121353L)https://github.com/Aloyloyloyloy          | Machine Learning + EDA + Data Cleaning |
+| Goh Kai Jun, Alger (U2122842K)https://github.com/agkj                  | EDA + Data Cleaning + Github Implementation                    
+| Ang Arthur Ace  (U2121103E)https://github.com/ScatteredThunderstorms  | Narration + Script + Tableau                                             | 
 
 -----------------------------
 
