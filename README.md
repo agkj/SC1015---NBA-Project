@@ -2,7 +2,7 @@
 -----------------------------
 # Team members:
 
-| Contributor                                           | Contributions                                                   
+| Contributor                                            | Contributions                                                   
 | ------------------------------------------------------|:---------------------------------------------------------------:|
 | Aloysius Tay Zen (U2121353L) @Aloyloyloyloy https://github.com/Aloyloyloyloy          | Machine Learning + EDA + Data Cleaning                          |
 | Goh Kai Jun, Alger (U2122842K) https://github.com/agkj                  | EDA + Data Cleaning + Github Implementation                    
@@ -41,8 +41,12 @@ What makes an NBA player good?
 
 -----------------------------
 # Data filtering
-1. Filtering of players who have less than 70% of games played, as our data has thousand over players who have less than 70% of the games played, filtering these
-players out will reduce skewness in the dataset
+
+As our dataset has repeated players across each season and also players who played too little games which will affect the desired output of our predictions, we will
+be filtering out players who have played less than 70% of the games played in each season.
+
+By doing so, it will reduce the skewness and increase accuracy of our desired output, which is to determine the best and mediocre players in the NBA.
+
 ![image](https://user-images.githubusercontent.com/39144132/164891171-e5323d34-1b65-489c-a7b6-fdac6525ff38.png)
 
 -----------------------------
@@ -53,7 +57,7 @@ Identifying other variables that affects the number of points a player scores pe
 3. Usage rate
 4. Net rating
 
-All these variables are factors that affects a player's points throughout his career, we will be using this variables to plot against "points" and see how they stack up.
+All these variables are factors that affects a player's points throughout his career, we will be using this variables against "points" to determine whether it affects the player's performance in the NBA.
 
 -----------------------------
 # Machine Learning
