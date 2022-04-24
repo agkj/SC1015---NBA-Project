@@ -63,9 +63,9 @@ By understanding how these variables have any effect on a players points per gam
 -----------------------------
 # Machine Learning
 Plotting out the decision tree 
-![image](![image](https://user-images.githubusercontent.com/66772395/164964931-a43c0811-7952-43a3-8068-742115f07808.png | width=100)
+![image](![image](https://user-images.githubusercontent.com/66772395/164964931-a43c0811-7952-43a3-8068-742115f07808.png | width=50)
 
-Goodness of fit of the model and confusion matrix
+Goodness of fit of the model and Confusion Matrix
 ![image](https://user-images.githubusercontent.com/66772395/164965037-3b16b610-eaf6-4fac-8fbc-743049eeb4c2.png)
 We were able to get similar classification accuracy for both the train and the test dataset.
 
