@@ -4,9 +4,9 @@
 
 | Contributor                                            | Contributions                                                   
 | ------------------------------------------------------|:---------------------------------------------------------------:|
-| Aloysius Tay Zen https://github.com/Aloyloyloyloy          | Machine Learning + EDA + Data Cleaning |
-| Goh Kai Jun, Alger https://github.com/agkj                  | EDA + Data Cleaning + Github Implementation                    
-| Ang Arthur Ace  https://github.com/ScatteredThunderstorms  | Narration + Script + Tableau                                             | 
+| Aloysius Tay Zen https://github.com/Aloyloyloyloy          | Machine Learning + EDA + Data Cleaning/scraping + Data visualisation |
+| Goh Kai Jun, Alger https://github.com/agkj                  | EDA + Data Cleaning/scraping + Data Visualisation + Github Implementation  |                 
+| Ang Arthur Ace  https://github.com/ScatteredThunderstorms  | Narration + Script + Tableau visualisation         | 
 
 -----------------------------
 
