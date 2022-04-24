@@ -4,7 +4,7 @@
 
 | Contributor                                            | Contributions                                                   
 | ------------------------------------------------------|:---------------------------------------------------------------:|
-| Aloysius Tay Zen (U2121353L) @Aloyloyloyloy https://github.com/Aloyloyloyloy          | Machine Learning + EDA + Data Cleaning                          |
+| Aloysius Tay Zen (U2121353L) @Aloyloyloyloy https://github.com/Aloyloyloyloy          | Machine Learning + EDA + Data Cleaning |
 | Goh Kai Jun, Alger (U2122842K) https://github.com/agkj                  | EDA + Data Cleaning + Github Implementation                    
 | Ang Arthur Ace  (U2121103E) @ScatteredThunderstorms https://github.com/ScatteredThunderstorms  | Narration + Script + Tableau                                             | 
 
@@ -51,13 +51,14 @@ By doing so, it will reduce the skewness and increase accuracy of our desired ou
 
 -----------------------------
 # EDA
-Identifying other variables that affects the number of points a player scores per game during his career in the NBA
-1. Age
-2. Games Played
-3. Usage rate
-4. Net rating
+Although points is the main factor that determine a player's performance, we will also be comparing it against other variables such as a players:
 
-All these variables are factors that affects a player's points throughout his career, we will be using this variables against "points" to determine whether it affects the player's performance in the NBA.
+1. Age (As a person gets older, will he start to score lesser points?)
+2. Games Played (Will high number of games played during a season means a player will score more points per game?)
+3. Usage rate (Usage rate and games played are not synonymous, will a high usage rate mean a player will score more points per game?)
+4. Net rating (Will a player's presence affect the team's winning chances?)
+
+By understanding how these variables have any effect on a players points per game, we will be able to make better judgement and predict whether a player will be in the first draft round pick or not.
 
 -----------------------------
 # Machine Learning
