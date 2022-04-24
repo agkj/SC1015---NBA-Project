@@ -69,7 +69,7 @@ Plotting out the decision tree
 
 Goodness of fit of the model and Confusion Matrix
 
-![image](https://user-images.githubusercontent.com/66772395/164965441-40edff38-67c5-4b48-82b4-ba501bc3567f.png)
+![image](https://user-images.githubusercontent.com/66772395/164965518-4fc63299-e989-41f2-9782-919a5787cccb.png)
 
 
 We were able to get similar classification accuracy for both the train and the test dataset.
