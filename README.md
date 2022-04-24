@@ -42,20 +42,20 @@ What makes an NBA player good?
 -----------------------------
 # Data filtering
 
-As our dataset has repeated players across each season and also players who played too little games which will affect the desired output of our predictions, we will
-be filtering out players who have played less than 70% of the games played in each season.
+As our dataset has players who played too little games, affecting the desired output of our predictions. 
+Hence, we will be filtering out players who have played in less than 70% of the games played in each season.
 
-By doing so, it will reduce the skewness and increase accuracy of our desired output, which is to determine the best and mediocre players in the NBA.
+By doing so, it will reduce the skewness and increase accuracy of our desired output, allowing us to determine the best and mediocre players in the NBA reliably.
 
 ![image](https://user-images.githubusercontent.com/39144132/164891171-e5323d34-1b65-489c-a7b6-fdac6525ff38.png)
 
 -----------------------------
 # EDA
-Although points is the main factor that determine a player's performance, we will also be comparing it against other variables such as a players:
+Although points is the main factor that determines a player's performance, we will also be comparing it against other variables such as a players:
 
 1. Age (As a person gets older, will he start to score lesser points?)
 2. Games Played (Will high number of games played during a season means a player will score more points per game?)
-3. Usage rate (Usage rate and games played are not synonymous, will a high usage rate mean a player will score more points per game?)
+3. Usage rate (As usage rate and games played are not synonymous, will a high usage rate result in a player scoring more points per game?)
 4. Net rating (Will a player's presence affect the team's winning chances?)
 
 By understanding how these variables have any effect on a players points per game, we will be able to make better judgement and predict whether a player will be in the first draft round pick or not.
